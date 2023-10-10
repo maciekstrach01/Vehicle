@@ -1,0 +1,15 @@
+C:\projects\C#\vehicle cs\bin\Debug\net7.0\vehicle.exe
+C:\projects\C#\vehicle cs\bin\Debug\net7.0\vehicle.deps.json
+C:\projects\C#\vehicle cs\bin\Debug\net7.0\vehicle.runtimeconfig.json
+C:\projects\C#\vehicle cs\bin\Debug\net7.0\vehicle.dll
+C:\projects\C#\vehicle cs\bin\Debug\net7.0\vehicle.pdb
+C:\projects\C#\vehicle cs\obj\Debug\net7.0\vehicle.csproj.AssemblyReference.cache
+C:\projects\C#\vehicle cs\obj\Debug\net7.0\vehicle.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\C#\vehicle cs\obj\Debug\net7.0\vehicle.AssemblyInfoInputs.cache
+C:\projects\C#\vehicle cs\obj\Debug\net7.0\vehicle.AssemblyInfo.cs
+C:\projects\C#\vehicle cs\obj\Debug\net7.0\vehicle.csproj.CoreCompileInputs.cache
+C:\projects\C#\vehicle cs\obj\Debug\net7.0\vehicle.dll
+C:\projects\C#\vehicle cs\obj\Debug\net7.0\refint\vehicle.dll
+C:\projects\C#\vehicle cs\obj\Debug\net7.0\vehicle.pdb
+C:\projects\C#\vehicle cs\obj\Debug\net7.0\vehicle.genruntimeconfig.cache
+C:\projects\C#\vehicle cs\obj\Debug\net7.0\ref\vehicle.dll
